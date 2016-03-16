@@ -22,24 +22,14 @@ pharser.openFile('./ARROW.txt', function (err,tickArray){
   }
 })
 
-
-/*
-  DailyBuyVolume: '14461400',
-  DailyValue: '146599.48',
-  DailyVolume: '26142500',
-  DailyVolumeAllSeries: '0',
-  ExchangeDailyDate: 1429608551699,
-  High: '5.65',
-  Low: '5.6',
-  Open: '5.6',
-  Price: '5.6',
-  TradeVolume: '3000'
-*/
 function reduceTick(array){
   var volume, open, low, high, close;
 
   var firstTick = array[0];
   var lastTick = array[array.length-1];
+
+  var date = moment(firstTick.ExchangeDailyDate).format('YYYY-MM-DD HH:mm');
+  var noSecondDate = moment(date,'YYYY-MM-DD HH:mm').utc().valueOf();
 
   var sum = 0;
   low = high = Number(firstTick.Price);
@@ -54,20 +44,14 @@ function reduceTick(array){
   open = Number(firstTick.Price);
   close = Number(lastTick.Price);
 
-
   var tickData = {};
+  tickData.symbol = firstTick.symbol;
   tickData.open = open;
   tickData.close = close;
   tickData.low = low;
   tickData.high = high;
   tickData.volume = volume;
-
-  // CLOSE,HIGH,LOW,OPEN,VOLUME
-
-  // Open
-  // Price
-  // return "Open: " + first.Open + "  Close: " + last.Price;
-  // TradeVolume
+  tickData.time = noSecondDate;
   return tickData;
 }
 
