@@ -43,11 +43,11 @@ connectDb( function(stockCollection){
   })
   //
   // function insert(tickData) {
-  //   stockCollection.insert (
-  //     [ tickData ],
-  //     function(err,result) {
-  //       console.log(tickData.ExchangeDailyDate);
-  //     })
-  //   }
+    // stockCollection.insert (
+    //   [ tickData ],
+    //   function(err,result) {
+    //     console.log(tickData.ExchangeDailyDate);
+    //   })
+    // }
 
 });
