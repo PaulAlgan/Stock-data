@@ -1,0 +1,364 @@
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:17300 DailyValue:1021.71 DailyVolume:84600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 10:38:41.543 AM High:12.2 Level:1 Low:11.9 OI:0 Open:12.2 Price:12 TradeBuySell:False TradeDate:04/22/2015 10:38:41.543 AM TradeUpdated:True TradeVolume:3300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:17700 DailyValue:1026.55 DailyVolume:85000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 10:48:40.544 AM High:12.2 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.1 TradeBuySell:True TradeDate:04/22/2015 10:48:40.544 AM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:18100 DailyValue:1031.39 DailyVolume:85400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 10:50:08.051 AM High:12.2 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.1 TradeBuySell:True TradeDate:04/22/2015 10:50:08.051 AM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:18200 DailyValue:1032.6 DailyVolume:85500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 10:53:28.804 AM High:12.2 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.1 TradeBuySell:True TradeDate:04/22/2015 10:53:28.804 AM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:18200 DailyValue:1041.07 DailyVolume:86200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 10:54:27.490 AM High:12.2 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.1 TradeBuySell:False TradeDate:04/22/2015 10:54:27.490 AM TradeUpdated:True TradeVolume:700
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:18300 DailyValue:1042.29 DailyVolume:86300 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 10:54:41.888 AM High:12.2 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 10:54:41.888 AM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:18300 DailyValue:1050.83 DailyVolume:87000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:00:12.355 AM High:12.2 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:False TradeDate:04/22/2015 11:00:12.355 AM TradeUpdated:True TradeVolume:700
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:19200 DailyValue:1061.9 DailyVolume:87900 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:00:26.776 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.3 TradeBuySell:True TradeDate:04/22/2015 11:00:26.776 AM TradeUpdated:True TradeVolume:900
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:19300 DailyValue:1063.13 DailyVolume:88000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:00:56.631 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.3 TradeBuySell:True TradeDate:04/22/2015 11:00:56.631 AM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:19700 DailyValue:1068.05 DailyVolume:88400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:04:08.148 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.3 TradeBuySell:True TradeDate:04/22/2015 11:04:08.148 AM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:19700 DailyValue:1072.93 DailyVolume:88800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:05:40.549 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:False TradeDate:04/22/2015 11:05:40.549 AM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:21300 DailyValue:1092.45 DailyVolume:90400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:05:40.549 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 11:05:40.549 AM TradeUpdated:True TradeVolume:1600
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:21400 DailyValue:1093.67 DailyVolume:90500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:13:23.664 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 11:13:23.664 AM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:24300 DailyValue:1129.05 DailyVolume:93400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:13:23.664 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 11:13:23.664 AM TradeUpdated:True TradeVolume:2900
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:24400 DailyValue:1130.27 DailyVolume:93500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:19:37.942 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 11:19:37.942 AM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:25900 DailyValue:1148.57 DailyVolume:95000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:22:24.826 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 11:22:24.826 AM TradeUpdated:True TradeVolume:1500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:31400 DailyValue:1215.67 DailyVolume:100500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:22:49.094 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 11:22:49.094 AM TradeUpdated:True TradeVolume:5500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:31400 DailyValue:1218.11 DailyVolume:100700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:27:13.677 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:False TradeDate:04/22/2015 11:27:13.677 AM TradeUpdated:True TradeVolume:200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:31400 DailyValue:1219.33 DailyVolume:100800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:28:00.135 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:False TradeDate:04/22/2015 11:28:00.135 AM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:31400 DailyValue:1224.21 DailyVolume:101200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:28:00.135 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:False TradeDate:04/22/2015 11:28:00.135 AM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:31400 DailyValue:1225.43 DailyVolume:101300 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:34:00.218 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:False TradeDate:04/22/2015 11:34:00.218 AM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:34200 DailyValue:1259.59 DailyVolume:104100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:34:00.218 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 11:34:00.218 AM TradeUpdated:True TradeVolume:2800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:34200 DailyValue:1260.8 DailyVolume:104200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:42:04.602 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.1 TradeBuySell:False TradeDate:04/22/2015 11:42:04.602 AM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:34700 DailyValue:1266.85 DailyVolume:104700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:42:04.602 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.1 TradeBuySell:True TradeDate:04/22/2015 11:42:04.602 AM TradeUpdated:True TradeVolume:500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:35000 DailyValue:1270.48 DailyVolume:105000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:45:51.421 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.1 TradeBuySell:True TradeDate:04/22/2015 11:45:51.421 AM TradeUpdated:True TradeVolume:300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:35000 DailyValue:1274.08 DailyVolume:105300 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:46:51.280 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12 TradeBuySell:False TradeDate:04/22/2015 11:46:51.280 AM TradeUpdated:True TradeVolume:300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:35000 DailyValue:1278.88 DailyVolume:105700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:46:51.280 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12 TradeBuySell:False TradeDate:04/22/2015 11:46:51.280 AM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:35000 DailyValue:1333.33 DailyVolume:110200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 11:57:01.992 AM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.1 TradeBuySell:False TradeDate:04/22/2015 11:57:01.992 AM TradeUpdated:True TradeVolume:4500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:35000 DailyValue:1345.43 DailyVolume:111200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:01:55.625 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.1 TradeBuySell:False TradeDate:04/22/2015 12:01:55.625 PM TradeUpdated:True TradeVolume:1000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:35000 DailyValue:1375.68 DailyVolume:113700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:03:10.483 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.1 TradeBuySell:False TradeDate:04/22/2015 12:03:10.483 PM TradeUpdated:True TradeVolume:2500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:35100 DailyValue:1376.9 DailyVolume:113800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:15:54.439 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 12:15:54.439 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:35500 DailyValue:1381.78 DailyVolume:114200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:15:54.439 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 12:15:54.439 PM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:36000 DailyValue:1387.88 DailyVolume:114700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:16:57.230 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 12:16:57.230 PM TradeUpdated:True TradeVolume:500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:36300 DailyValue:1391.54 DailyVolume:115000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:17:36.381 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 12:17:36.381 PM TradeUpdated:True TradeVolume:300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:36400 DailyValue:1392.76 DailyVolume:115100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:20:42.726 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 12:20:42.726 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:36500 DailyValue:1393.98 DailyVolume:115200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:21:16.696 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.2 TradeBuySell:True TradeDate:04/22/2015 12:21:16.696 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:47500 DailyValue:1529.22 DailyVolume:126200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:25:25.783 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.3 TradeBuySell:True TradeDate:04/22/2015 12:25:25.783 PM TradeUpdated:True TradeVolume:11000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:59500 DailyValue:1676.82 DailyVolume:138200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:27:40.174 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.3 TradeBuySell:True TradeDate:04/22/2015 12:27:40.174 PM TradeUpdated:True TradeVolume:12000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:59600 DailyValue:1678.05 DailyVolume:138300 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:28:23.996 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.3 TradeBuySell:True TradeDate:04/22/2015 12:28:23.996 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:60800 DailyValue:1692.81 DailyVolume:139500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:28:29.643 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.3 TradeBuySell:True TradeDate:04/22/2015 12:28:29.643 PM TradeUpdated:True TradeVolume:1200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:61100 DailyValue:1696.5 DailyVolume:139800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:28:39.593 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.3 TradeBuySell:True TradeDate:04/22/2015 12:28:39.593 PM TradeUpdated:True TradeVolume:300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:61300 DailyValue:1698.96 DailyVolume:140000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:28:48.327 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.3 TradeBuySell:True TradeDate:04/22/2015 12:28:48.327 PM TradeUpdated:True TradeVolume:200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:61400 DailyValue:1700.19 DailyVolume:140100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:29:23.817 PM High:12.3 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.3 TradeBuySell:True TradeDate:04/22/2015 12:29:23.817 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:61500 DailyValue:1701.43 DailyVolume:140200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:29:30.950 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 12:29:30.950 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:62000 DailyValue:1707.63 DailyVolume:140700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:29:30.984 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 12:29:30.984 PM TradeUpdated:True TradeVolume:500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:62500 DailyValue:1713.83 DailyVolume:141200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:29:31.052 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 12:29:31.052 PM TradeUpdated:True TradeVolume:500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:62600 DailyValue:1715.07 DailyVolume:141300 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:29:31.495 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 12:29:31.495 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:64500 DailyValue:1738.63 DailyVolume:143200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:29:31.550 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 12:29:31.550 PM TradeUpdated:True TradeVolume:1900
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:64900 DailyValue:1743.59 DailyVolume:143600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:29:31.595 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 12:29:31.595 PM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:65000 DailyValue:1744.83 DailyVolume:143700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:29:40.475 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 12:29:40.475 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:65200 DailyValue:1747.31 DailyVolume:143900 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:29:41.222 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 12:29:41.222 PM TradeUpdated:True TradeVolume:200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:66000 DailyValue:1757.23 DailyVolume:144700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 12:29:41.224 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 12:29:41.224 PM TradeUpdated:True TradeVolume:800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:66000 DailyValue:1971.75 DailyVolume:162000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:30:05.746 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:30:05.746 PM TradeUpdated:True TradeVolume:17300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:66000 DailyValue:2015.15 DailyVolume:165500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:32:24.827 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:32:24.827 PM TradeUpdated:True TradeVolume:3500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:66000 DailyValue:2021.35 DailyVolume:166000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:33:07.181 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:33:07.181 PM TradeUpdated:True TradeVolume:500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:66000 DailyValue:2233.39 DailyVolume:183100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:35:29.801 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:35:29.801 PM TradeUpdated:True TradeVolume:17100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:66000 DailyValue:2244.55 DailyVolume:184000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:35:29.801 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:35:29.801 PM TradeUpdated:True TradeVolume:900
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:66000 DailyValue:2256.95 DailyVolume:185000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:36:20.671 PM High:12.4 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:36:20.671 PM TradeUpdated:True TradeVolume:1000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:66100 DailyValue:2258.2 DailyVolume:185100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:37:21.943 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 02:37:21.943 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:67100 DailyValue:2270.7 DailyVolume:186100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:37:22.345 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 02:37:22.345 PM TradeUpdated:True TradeVolume:1000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:68000 DailyValue:2281.95 DailyVolume:187000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:40:10.880 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 02:40:10.880 PM TradeUpdated:True TradeVolume:900
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:70000 DailyValue:2306.95 DailyVolume:189000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:40:16.365 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 02:40:16.365 PM TradeUpdated:True TradeVolume:2000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:70000 DailyValue:2308.19 DailyVolume:189100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:40:35.966 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:40:35.966 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:70000 DailyValue:2313.15 DailyVolume:189500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:40:35.966 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:40:35.966 PM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:70000 DailyValue:2320.59 DailyVolume:190100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:42:02.573 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:42:02.573 PM TradeUpdated:True TradeVolume:600
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:70000 DailyValue:2325.55 DailyVolume:190500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:42:02.573 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:42:02.573 PM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:70000 DailyValue:2332.99 DailyVolume:191100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:53:28.349 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:53:28.349 PM TradeUpdated:True TradeVolume:600
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:70000 DailyValue:2697.55 DailyVolume:220500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:53:28.349 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 02:53:28.349 PM TradeUpdated:True TradeVolume:29400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:70300 DailyValue:2701.27 DailyVolume:220800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:53:59.151 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 02:53:59.151 PM TradeUpdated:True TradeVolume:300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:70400 DailyValue:2702.51 DailyVolume:220900 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:53:59.151 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 02:53:59.151 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:71400 DailyValue:2714.91 DailyVolume:221900 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:56:52.488 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 02:56:52.488 PM TradeUpdated:True TradeVolume:1000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:71900 DailyValue:2721.11 DailyVolume:222400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:58:11.740 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 02:58:11.740 PM TradeUpdated:True TradeVolume:500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:72000 DailyValue:2722.35 DailyVolume:222500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 02:58:58.465 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 02:58:58.465 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:72000 DailyValue:2747.15 DailyVolume:224500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:00:33.852 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 03:00:33.852 PM TradeUpdated:True TradeVolume:2000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:72000 DailyValue:2771.95 DailyVolume:226500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:02:48.077 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 03:02:48.077 PM TradeUpdated:True TradeVolume:2000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:75000 DailyValue:2809.45 DailyVolume:229500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:03:39.218 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 03:03:39.218 PM TradeUpdated:True TradeVolume:3000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:79000 DailyValue:2859.45 DailyVolume:233500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:06:01.066 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 03:06:01.066 PM TradeUpdated:True TradeVolume:4000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:92300 DailyValue:3025.7 DailyVolume:246800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:07:30.015 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 03:07:30.015 PM TradeUpdated:True TradeVolume:13300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:92300 DailyValue:3779.45 DailyVolume:307100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:07:30.015 PM High:12.5 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 03:07:30.015 PM TradeUpdated:True TradeVolume:60300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:92300 DailyValue:4350.23 DailyVolume:352400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:07:41.547 PM High:12.6 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:False TradeDate:04/22/2015 03:07:41.547 PM TradeUpdated:True TradeVolume:45300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:94800 DailyValue:4381.98 DailyVolume:354900 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:08:40.673 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:08:40.673 PM TradeUpdated:True TradeVolume:2500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:102300 DailyValue:4477.23 DailyVolume:362400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:10:00.923 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:10:00.923 PM TradeUpdated:True TradeVolume:7500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:106800 DailyValue:4534.38 DailyVolume:366900 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:10:00.923 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:10:00.923 PM TradeUpdated:True TradeVolume:4500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:107900 DailyValue:4548.35 DailyVolume:368000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:11:44.322 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:11:44.322 PM TradeUpdated:True TradeVolume:1100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:108000 DailyValue:4549.62 DailyVolume:368100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:11:53.519 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:11:53.519 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:113000 DailyValue:4613.12 DailyVolume:373100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:11:55.811 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:11:55.811 PM TradeUpdated:True TradeVolume:5000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:118000 DailyValue:4676.62 DailyVolume:378100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:12:08.006 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:12:08.006 PM TradeUpdated:True TradeVolume:5000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:121300 DailyValue:4718.53 DailyVolume:381400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:12:17.986 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:12:17.986 PM TradeUpdated:True TradeVolume:3300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:125000 DailyValue:4765.52 DailyVolume:385100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:12:17.986 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:12:17.986 PM TradeUpdated:True TradeVolume:3700
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:125700 DailyValue:4774.41 DailyVolume:385800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:12:36.978 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:12:36.978 PM TradeUpdated:True TradeVolume:700
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:129300 DailyValue:4820.13 DailyVolume:389400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:13:04.710 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:13:04.710 PM TradeUpdated:True TradeVolume:3600
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:135700 DailyValue:4901.41 DailyVolume:395800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:13:04.710 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:13:04.710 PM TradeUpdated:True TradeVolume:6400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:137300 DailyValue:4921.73 DailyVolume:397400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:13:10.364 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:13:10.364 PM TradeUpdated:True TradeVolume:1600
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:138700 DailyValue:4939.51 DailyVolume:398800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:13:10.364 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:13:10.364 PM TradeUpdated:True TradeVolume:1400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:140500 DailyValue:4962.37 DailyVolume:400600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:13:23.466 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:13:23.466 PM TradeUpdated:True TradeVolume:1800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:140500 DailyValue:4975.07 DailyVolume:401600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:13:23.466 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:False TradeDate:04/22/2015 03:13:23.466 PM TradeUpdated:True TradeVolume:1000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:142700 DailyValue:5003.01 DailyVolume:403800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:13:36.513 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:13:36.513 PM TradeUpdated:True TradeVolume:2200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:150500 DailyValue:5102.07 DailyVolume:411600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:15:18.279 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:15:18.279 PM TradeUpdated:True TradeVolume:7800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:152700 DailyValue:5130.01 DailyVolume:413800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:15:18.279 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:15:18.279 PM TradeUpdated:True TradeVolume:2200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:153500 DailyValue:5140.17 DailyVolume:414600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:15:22.910 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:15:22.910 PM TradeUpdated:True TradeVolume:800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:163500 DailyValue:5267.17 DailyVolume:424600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:15:37.684 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:15:37.684 PM TradeUpdated:True TradeVolume:10000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:170500 DailyValue:5356.07 DailyVolume:431600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:15:41.431 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:15:41.431 PM TradeUpdated:True TradeVolume:7000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:170500 DailyValue:5447.51 DailyVolume:438800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:15:41.431 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:False TradeDate:04/22/2015 03:15:41.431 PM TradeUpdated:True TradeVolume:7200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:170500 DailyValue:5498.31 DailyVolume:442800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:15:47.601 PM High:12.7 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:False TradeDate:04/22/2015 03:15:47.601 PM TradeUpdated:True TradeVolume:4000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:172500 DailyValue:5523.91 DailyVolume:444800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:16:47.500 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:16:47.500 PM TradeUpdated:True TradeVolume:2000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:173500 DailyValue:5536.71 DailyVolume:445800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:17:14.282 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:17:14.282 PM TradeUpdated:True TradeVolume:1000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:175500 DailyValue:5562.31 DailyVolume:447800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:17:32.407 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:17:32.407 PM TradeUpdated:True TradeVolume:2000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:176800 DailyValue:5578.95 DailyVolume:449100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:18:32.778 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:18:32.778 PM TradeUpdated:True TradeVolume:1300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:177700 DailyValue:5590.47 DailyVolume:450000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:18:38.544 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:18:38.544 PM TradeUpdated:True TradeVolume:900
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:178700 DailyValue:5603.27 DailyVolume:451000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:18:52.597 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:18:52.597 PM TradeUpdated:True TradeVolume:1000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:179400 DailyValue:5612.23 DailyVolume:451700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:19:37.772 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:19:37.772 PM TradeUpdated:True TradeVolume:700
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:183400 DailyValue:5663.43 DailyVolume:455700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:19:53.119 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:19:53.119 PM TradeUpdated:True TradeVolume:4000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:184800 DailyValue:5681.35 DailyVolume:457100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:20:01.822 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:20:01.822 PM TradeUpdated:True TradeVolume:1400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:185600 DailyValue:5691.59 DailyVolume:457900 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:20:34.001 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:20:34.001 PM TradeUpdated:True TradeVolume:800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:185700 DailyValue:5692.87 DailyVolume:458000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:20:34.001 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:20:34.001 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:187600 DailyValue:5717.19 DailyVolume:459900 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:20:41.349 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:20:41.349 PM TradeUpdated:True TradeVolume:1900
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:243900 DailyValue:6437.83 DailyVolume:516200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:20:41.349 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:20:41.349 PM TradeUpdated:True TradeVolume:56300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:244100 DailyValue:6440.39 DailyVolume:516400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:20:51.707 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:20:51.707 PM TradeUpdated:True TradeVolume:200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:245900 DailyValue:6463.43 DailyVolume:518200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:20:51.707 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:20:51.707 PM TradeUpdated:True TradeVolume:1800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:250100 DailyValue:6517.19 DailyVolume:522400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:21:01.946 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:21:01.946 PM TradeUpdated:True TradeVolume:4200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:251400 DailyValue:6533.83 DailyVolume:523700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:21:01.946 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:21:01.946 PM TradeUpdated:True TradeVolume:1300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:252200 DailyValue:6544.07 DailyVolume:524500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:21:35.267 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:21:35.267 PM TradeUpdated:True TradeVolume:800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:257200 DailyValue:6608.07 DailyVolume:529500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:21:48.007 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:21:48.007 PM TradeUpdated:True TradeVolume:5000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:259200 DailyValue:6633.67 DailyVolume:531500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:22:06.949 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.8 TradeBuySell:True TradeDate:04/22/2015 03:22:06.949 PM TradeUpdated:True TradeVolume:2000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:259200 DailyValue:6708.6 DailyVolume:537400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:22:25.364 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:False TradeDate:04/22/2015 03:22:25.364 PM TradeUpdated:True TradeVolume:5900
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:259200 DailyValue:6954.98 DailyVolume:556800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:22:25.364 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:False TradeDate:04/22/2015 03:22:25.364 PM TradeUpdated:True TradeVolume:19400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:303200 DailyValue:7513.78 DailyVolume:600800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:22:28.441 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.7 TradeBuySell:True TradeDate:04/22/2015 03:22:28.441 PM TradeUpdated:True TradeVolume:44000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:303200 DailyValue:7583.08 DailyVolume:606300 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:22:33.800 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:False TradeDate:04/22/2015 03:22:33.800 PM TradeUpdated:True TradeVolume:5500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:303200 DailyValue:7656.16 DailyVolume:612100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:22:33.800 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:False TradeDate:04/22/2015 03:22:33.800 PM TradeUpdated:True TradeVolume:5800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:303400 DailyValue:7658.68 DailyVolume:612300 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:22:38.522 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:True TradeDate:04/22/2015 03:22:38.522 PM TradeUpdated:True TradeVolume:200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:304200 DailyValue:7668.76 DailyVolume:613100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:22:58.435 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:True TradeDate:04/22/2015 03:22:58.435 PM TradeUpdated:True TradeVolume:800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:308900 DailyValue:7727.98 DailyVolume:617800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:22:58.435 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:True TradeDate:04/22/2015 03:22:58.435 PM TradeUpdated:True TradeVolume:4700
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:309200 DailyValue:7731.76 DailyVolume:618100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:23:19.475 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:True TradeDate:04/22/2015 03:23:19.475 PM TradeUpdated:True TradeVolume:300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:314200 DailyValue:7794.76 DailyVolume:623100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:23:21.865 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:True TradeDate:04/22/2015 03:23:21.865 PM TradeUpdated:True TradeVolume:5000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:314200 DailyValue:7857.76 DailyVolume:628100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:23:28.620 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:False TradeDate:04/22/2015 03:23:28.620 PM TradeUpdated:True TradeVolume:5000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:314200 DailyValue:7983.76 DailyVolume:638100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:24:10.718 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:False TradeDate:04/22/2015 03:24:10.718 PM TradeUpdated:True TradeVolume:10000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:314200 DailyValue:7996.36 DailyVolume:639100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:26:23.358 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:False TradeDate:04/22/2015 03:26:23.358 PM TradeUpdated:True TradeVolume:1000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:314200 DailyValue:8059.36 DailyVolume:644100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:26:29.961 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:False TradeDate:04/22/2015 03:26:29.961 PM TradeUpdated:True TradeVolume:5000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:314200 DailyValue:8103.46 DailyVolume:647600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:31:44.116 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:False TradeDate:04/22/2015 03:31:44.116 PM TradeUpdated:True TradeVolume:3500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:314200 DailyValue:8607.46 DailyVolume:687600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:33:40.940 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:False TradeDate:04/22/2015 03:33:40.940 PM TradeUpdated:True TradeVolume:40000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:320200 DailyValue:8683.06 DailyVolume:693600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:33:47.948 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:True TradeDate:04/22/2015 03:33:47.948 PM TradeUpdated:True TradeVolume:6000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:337700 DailyValue:8901.81 DailyVolume:711100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:35:04.213 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 03:35:04.213 PM TradeUpdated:True TradeVolume:17500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:337700 DailyValue:8926.61 DailyVolume:713100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:36:05.486 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 03:36:05.486 PM TradeUpdated:True TradeVolume:2000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:337700 DailyValue:9273.81 DailyVolume:741100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:36:05.486 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 03:36:05.486 PM TradeUpdated:True TradeVolume:28000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:337700 DailyValue:9521.81 DailyVolume:761100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:36:58.270 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 03:36:58.270 PM TradeUpdated:True TradeVolume:20000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:338600 DailyValue:9532.97 DailyVolume:762000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:36:59.938 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 03:36:59.938 PM TradeUpdated:True TradeVolume:900
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:338600 DailyValue:9571.41 DailyVolume:765100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:37:07.512 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 03:37:07.512 PM TradeUpdated:True TradeVolume:3100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:342600 DailyValue:9621.41 DailyVolume:769100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:37:58.836 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 03:37:58.836 PM TradeUpdated:True TradeVolume:4000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:343000 DailyValue:9626.41 DailyVolume:769500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:38:00.872 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 03:38:00.872 PM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:343200 DailyValue:9628.91 DailyVolume:769700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:40:30.526 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 03:40:30.526 PM TradeUpdated:True TradeVolume:200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:343200 DailyValue:9638.83 DailyVolume:770500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:49:27.210 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 03:49:27.210 PM TradeUpdated:True TradeVolume:800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:348200 DailyValue:9701.33 DailyVolume:775500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:51:43.465 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 03:51:43.465 PM TradeUpdated:True TradeVolume:5000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:348200 DailyValue:10321.33 DailyVolume:825500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:53:13.217 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 03:53:13.217 PM TradeUpdated:True TradeVolume:50000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:348200 DailyValue:10330.01 DailyVolume:826200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:58:17.755 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 03:58:17.755 PM TradeUpdated:True TradeVolume:700
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:350200 DailyValue:10355.01 DailyVolume:828200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 03:59:21.236 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 03:59:21.236 PM TradeUpdated:True TradeVolume:2000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:350200 DailyValue:10386.01 DailyVolume:830700 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:08:00.128 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 04:08:00.128 PM TradeUpdated:True TradeVolume:2500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:350200 DailyValue:10500.09 DailyVolume:839900 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:08:00.128 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:False TradeDate:04/22/2015 04:08:00.128 PM TradeUpdated:True TradeVolume:9200
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:357700 DailyValue:10593.84 DailyVolume:847400 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:08:06.762 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 04:08:06.762 PM TradeUpdated:True TradeVolume:7500
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:362800 DailyValue:10657.59 DailyVolume:852500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:08:13.940 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 04:08:13.940 PM TradeUpdated:True TradeVolume:5100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:363100 DailyValue:10661.34 DailyVolume:852800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:08:15.480 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 04:08:15.480 PM TradeUpdated:True TradeVolume:300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370100 DailyValue:10748.84 DailyVolume:859800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:08:21.140 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 04:08:21.140 PM TradeUpdated:True TradeVolume:7000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370100 DailyValue:10778.84 DailyVolume:862200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:08:31.063 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:08:31.063 PM TradeUpdated:True TradeVolume:2400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370100 DailyValue:10878.84 DailyVolume:870200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:08:51.973 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:08:51.973 PM TradeUpdated:True TradeVolume:8000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370100 DailyValue:10941.34 DailyVolume:875200 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:09:16.268 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:09:16.268 PM TradeUpdated:True TradeVolume:5000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370100 DailyValue:10951.34 DailyVolume:876000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:12:39.210 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:12:39.210 PM TradeUpdated:True TradeVolume:800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370100 DailyValue:10963.84 DailyVolume:877000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:14:11.914 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:14:11.914 PM TradeUpdated:True TradeVolume:1000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370100 DailyValue:10996.34 DailyVolume:879600 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:24:10.353 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:24:10.353 PM TradeUpdated:True TradeVolume:2600
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370100 DailyValue:11026.34 DailyVolume:882000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:24:10.353 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:24:10.353 PM TradeUpdated:True TradeVolume:2400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370100 DailyValue:11088.84 DailyVolume:887000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:24:10.880 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:24:10.880 PM TradeUpdated:True TradeVolume:5000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370100 DailyValue:11113.84 DailyVolume:889000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:24:27.248 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:24:27.248 PM TradeUpdated:True TradeVolume:2000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370100 DailyValue:11238.84 DailyVolume:899000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:24:51.624 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:24:51.624 PM TradeUpdated:True TradeVolume:10000
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370200 DailyValue:11240.1 DailyVolume:899100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:24:59.289 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.6 TradeBuySell:True TradeDate:04/22/2015 04:24:59.289 PM TradeUpdated:True TradeVolume:100
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370200 DailyValue:11270.1 DailyVolume:901500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:25:45.696 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:25:45.696 PM TradeUpdated:True TradeVolume:2400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370200 DailyValue:11277.6 DailyVolume:902100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:25:45.696 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:25:45.696 PM TradeUpdated:True TradeVolume:600
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370200 DailyValue:11307.6 DailyVolume:904500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:26:32.838 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:26:32.838 PM TradeUpdated:True TradeVolume:2400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370200 DailyValue:11340.1 DailyVolume:907100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:26:32.838 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:26:32.838 PM TradeUpdated:True TradeVolume:2600
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370600 DailyValue:11345.1 DailyVolume:907500 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:26:39.550 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 04:26:39.550 PM TradeUpdated:True TradeVolume:400
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:370600 DailyValue:11352.6 DailyVolume:908100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:28:00.412 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:False TradeDate:04/22/2015 04:28:00.412 PM TradeUpdated:True TradeVolume:600
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:373500 DailyValue:11388.85 DailyVolume:911000 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:28:09.870 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 04:28:09.870 PM TradeUpdated:True TradeVolume:2900
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:375300 DailyValue:11411.35 DailyVolume:912800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:28:14.438 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 04:28:14.438 PM TradeUpdated:True TradeVolume:1800
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:393600 DailyValue:11638.27 DailyVolume:931100 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:29:37.502 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.4 TradeBuySell:True TradeDate:04/22/2015 04:29:37.502 PM TradeUpdated:True TradeVolume:18300
+
+ symbol:ARROW*BK Ask:0 AskSize:0 AskUpdated:False Bid:0 BidSize:0 BidUpdated:False DailyBuyVolume:450300 DailyValue:12347.02 DailyVolume:987800 DailyVolumeAllSeries:0 ExchangeDailyDate:04/22/2015 04:37:25.056 PM High:12.8 Level:1 Low:11.9 OI:0 Open:12.2 Price:12.5 TradeBuySell:True TradeDate:04/22/2015 04:37:25.056 PM TradeUpdated:True TradeVolume:56700
+
